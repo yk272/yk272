@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yk272
-- 👀 I’m interested in Autoimation
+- 👀 I’m interested in Automation
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me - yadukrishnan272@gmail.com
 
